@@ -10,7 +10,7 @@ A classic **Tic-Tac-Toe game** built with vanilla JavaScript — play against a 
 
 ## 🚀 Live Demo
 
-> 🔗 [Play Now →](cozy-marzipan-d5f51e.netlify.app)
+> 🔗 [Play Now →](https://adrihamzallari.github.io/Tic-Tac-Toe-Game/)
 
 ---
 
@@ -153,13 +153,5 @@ Or [download the ZIP](https://github.com/AdriHamzallari/Tic-Tac-Toe-Game/archive
 - GitHub: [@AdriHamzallari](https://github.com/AdriHamzallari)
 - LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/adri-hamzallari-891667322/)
 - Location: Tirana, Albania 🇦🇱
-
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 > *Part of my frontend development portfolio — built with pure HTML, CSS, and JavaScript.*
